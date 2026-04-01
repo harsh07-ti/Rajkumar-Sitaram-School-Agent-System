@@ -1,0 +1,7 @@
+run: node index.js
+
+modules:
+  - nodejs-18
+
+env:
+  NODE_ENV: production
